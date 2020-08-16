@@ -14,9 +14,8 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          USERNAME: pititu
-          SHOW_TITLE: false
-          COMMIT_MESSAGE: "chore: update README.md"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
