@@ -11,10 +11,17 @@ jobs:
     name: Update README.md with WakaTime metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           USERNAME: pititu
           SHOW_TITLE: false
           COMMIT_MESSAGE: "chore: update README.md"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_LOC_CHART: "False"
+
+          # TODO: enable this some day
+          SHOW_SHORT_INFO: "False"
           
