@@ -1,16 +1,14 @@
 name: Update WakaTime stats
 
 on:
+  # Runs at 12am UTC
   schedule:
-    # Runs at 12am UTC
     - cron: '0 0 * * *'
-  push:
-    branches: [ master ]
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update README.md with WakaTime metrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
