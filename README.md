@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-755%20hrs%2024%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -26,10 +28,10 @@ Sunday       76 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       10 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    10 mins             █████████████████████████   100.0%
 
 ```
 
