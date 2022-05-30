@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-791%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm an Early 🐤** 
 
@@ -28,11 +28,10 @@ Sunday       71 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       47 mins             ████████████████████████░   96.91% 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.09%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    48 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -49,5 +48,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2022 22:01:21 UTC
+ Last Updated on 30/05/2022 22:03:09 UTC
 <!--END_SECTION:waka-->
