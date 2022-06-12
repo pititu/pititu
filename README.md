@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-792%20hrs%2013%20mins-blue)
 
-**I'm an Early 🐤** 
+**I'm an early 🐤** 
 
 ```text
 🌞 Morning    18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.07% 
@@ -10,7 +10,7 @@
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm most productive on Saturday** 
 
 ```text
 Monday       76 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.19% 
@@ -24,7 +24,7 @@ Sunday       71 commits     ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 💬 Programming Languages: 
@@ -37,7 +37,7 @@ VS Code                  5 mins              ███████████�
 
 ```
 
-**I Mostly Code in C#** 
+**💻 I mostly code in C#** 
 
 ```text
 C#                       15 repos            ███████████████░░░░░░░░░░   62.5% 
@@ -50,5 +50,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 07:35:48 UTC
+ Last Updated on 12/06/2022 07:37:28 UTC
 <!--END_SECTION:waka-->
