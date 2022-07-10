@@ -28,10 +28,10 @@ Sunday       74 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      16 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            16 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -48,5 +48,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2022 22:00:13 UTC
+ Last Updated on 10/07/2022 22:01:39 UTC
 <!--END_SECTION:waka-->
