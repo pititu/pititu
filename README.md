@@ -28,10 +28,10 @@ Sunday       83 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       4 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.0%
 
 ```
 
@@ -48,5 +48,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2022 23:01:46 UTC
+ Last Updated on 02/12/2022 23:03:33 UTC
 <!--END_SECTION:waka-->
