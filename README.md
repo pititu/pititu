@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-886%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-886%20hrs%2046%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -48,5 +48,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2022 13:11:05 UTC
+ Last Updated on 29/12/2022 13:12:50 UTC
 <!--END_SECTION:waka-->
