@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-886%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time--blue)
 
 **I Mostly Code in C#** 
 
@@ -14,5 +14,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2022 17:46:28 UTC
+ Last Updated on 29/12/2022 17:49:10 UTC
 <!--END_SECTION:waka-->
