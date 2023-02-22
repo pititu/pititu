@@ -26,11 +26,10 @@ Sunday                   287 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       2 hrs 30 mins       █████████████████████████   99.78 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    2 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -46,5 +45,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/02/2023 23:00:23 UTC
+ Last Updated on 22/02/2023 23:01:03 UTC
 <!--END_SECTION:waka-->
