@@ -40,10 +40,10 @@ Sunday                   1307 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
