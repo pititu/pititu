@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C050%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C050%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,10 +40,13 @@ Sunday                   1308 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       18 mins             ████████████████████████░   96.69 % 
+XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Solution File            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
