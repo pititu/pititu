@@ -7,6 +7,8 @@
 
 > 📦 375.8 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
@@ -38,11 +40,10 @@ Sunday                   1331 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       13 mins             █████████████████████░░░░   83.01 % 
-XML                      2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Jetbrainsrider           16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
